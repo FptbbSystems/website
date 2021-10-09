@@ -3,12 +3,12 @@ import { Chart } from "../../types/chart";
 /**
  * Base API URL to use for requests.
  */
-export const apiURL = "https://api.zws.im";
+export const apiURL = "https://w.fpt.icu";
 /**
  * Hostnames of ZWS instances.
  * Used in addition to server-side validation to prevent shortening an already short URL.
  */
-export const hostnames = ["zws.im"];
+export const hostnames = ["w.fpt.icu"];
 /**
  * HTML elements used across the project.
  */
