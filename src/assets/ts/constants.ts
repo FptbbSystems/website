@@ -3,7 +3,7 @@ import { Chart } from "../../types/chart";
 /**
  * Base API URL to use for requests.
  */
-export const apiURL = "https://w.fpt.icu";
+export const apiURL = "https://fpzws.herokuapp.com";
 /**
  * Hostnames of ZWS instances.
  * Used in addition to server-side validation to prevent shortening an already short URL.
